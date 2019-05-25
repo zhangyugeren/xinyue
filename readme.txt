@@ -5,3 +5,4 @@ git rest --hard "HEAD^"
 git add readme.txt
 git commit readme.txt -m "modify"
 git add readme.txt
+git status
