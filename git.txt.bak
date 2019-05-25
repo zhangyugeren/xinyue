@@ -6,4 +6,3 @@ git add readme.txt
 git commit readme.txt -m "modify"
 git add readme.txt
 git status
-git log --pretty=oneline
