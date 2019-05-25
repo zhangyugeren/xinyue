@@ -11,3 +11,4 @@ git log --pretty=oneline
 --remote address
 git remote add origin https://github.com/zhangyugeren/xinyue.git
 --add remote
+git push -u origin master
